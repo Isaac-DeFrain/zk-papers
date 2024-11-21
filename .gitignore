@@ -1,0 +1,3 @@
+# ignore pdfs
+pdfs/
+*.pdf
